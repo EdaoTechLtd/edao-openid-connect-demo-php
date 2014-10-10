@@ -48,3 +48,7 @@ class EdaoOIDConfig {
 
 
 ```
+
+## 说明
+
+由于本例使用到私有的sdk，请合作方在接入时联系 biz#edaotech.com 索取
