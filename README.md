@@ -1,5 +1,21 @@
-<?php
+EdaoTech OpenID Connect Demo(PHP)
+====================================
 
+## 环境
+
+* PHP 5.3
+* CURL EXTENSION
+* Apache with PHP Module / Nginx / Other Server
+
+## 准备
+
+* 从GitHub clone项目到服务器目录
+* 申请接入应用的App License信息
+
+## 代码
+修改 `customize_config.php` 文件
+
+```
 class EdaoOIDConfig {
 	// 客户代码名 : 请替换成真实客户代码名
 	private $ClientName = "EdaoStd";
@@ -30,4 +46,5 @@ class EdaoOIDConfig {
 	}
 }
 
-?>
+
+```
