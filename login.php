@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-<meta charset="UTF-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Edao OpenID Connect Demo (PHP Edition)</title>
 </head>
 <style type="text/css">
@@ -42,7 +42,6 @@ echo $redirect_url;
 ?>
 
 " class="button-edao">翼道快捷登录</a>
-</body>
 </body>
 </html>
 
